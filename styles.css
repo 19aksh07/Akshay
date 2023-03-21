@@ -1,0 +1,177 @@
+body{
+    margin:0;
+    text-align: center;
+    line-height: 2;
+}
+.top{
+    background-color: #FCFFE7;
+    margin:0;
+    position: relative;
+    height:39rem;
+   
+}
+.htop{
+    color:#000000;
+    position: relative;
+    width:90rem;
+    height:29rem;
+    margin:0 auto 0 auto;
+    padding-top: 6rem;
+    font-size: larger;
+
+}
+.mid{
+    background-color: #BAD7E9;
+    padding-top:4rem;
+    position: relative;
+}
+.good-at, .learn, .hobby{
+    position:relative;
+    height:15rem;
+    width:90rem;
+    margin:0 auto 0 auto;
+}
+h1{font-family: 'Tangerine', cursive;
+font-size: 5rem;
+margin:0}
+h1:hover{color:tomato;
+    text-decoration:dotted underline;}
+h2{
+    font-family: 'Montserrat', sans-serif;
+}
+.p-mid{
+    font-size:1.5rem;
+    font-family:'Roboto', sans-serif;
+}
+.h2good{
+    font-size: 2rem;
+    color:#2B3467
+}
+hr{
+    width:5rem;
+    border-style: none;
+    border-top:0.5rem dotted #2B346750
+}
+#three{
+    width:10rem;
+    position:absolute;
+    bottom:3rem;
+    right:20rem;
+}
+#five{
+    width:10rem;
+    position:absolute;
+    bottom:3rem;
+    left:20rem;
+}
+
+#four{
+    width:10rem;
+    position:absolute;
+    bottom:20rem;
+    left:9rem;
+}
+
+#six{
+    width:10rem;
+    position:absolute;
+    bottom:20rem;
+    right:9rem;
+}
+
+
+#c{
+    width:10rem;
+    position:absolute;
+    top:2.5rem;
+    left:2.5rem;
+}
+#cpp{
+    width:10rem;
+    position:absolute;
+    top:2.5rem;
+    left:17.5rem;
+    }
+#java{
+    width:10rem;
+    position:absolute;
+    top:2.5rem;
+    left:32.5rem;
+    
+}
+#python{
+    width:10rem;
+    position:absolute;
+    top:2.5rem;
+    left:47.5rem;
+}
+
+#arduino{
+    width:10rem;
+    position:absolute;
+    top:2.5rem;
+    left:62.5rem;
+}
+
+#matlab{
+    width:10rem;
+    position:absolute;
+    top:2.5rem;
+    left:77.5rem;
+}
+#c:hover, #java:hover, #arduino:hover{
+    background-color:black;
+}
+#cpp:hover,#python:hover, #matlab:hover{
+    background-color: #EB455F;
+}
+#aws{
+    width:10rem;
+    position:absolute;
+    top:2.5rem;
+    left:15rem;
+}
+#dbms{
+    width:10rem;
+    position:absolute;
+    top:2.5rem;
+    left:40em;
+
+}
+#web-dev{
+    width:10rem;
+    position:absolute;
+    top:2.5rem;
+    right:15rem;
+    }
+.hobbies{
+    font-family: "Roboto", sans-serif;
+}
+#code{
+    width:10rem;
+    position:absolute;
+    top:2.5rem;
+    left:40rem;}
+
+.bot{
+    background-color: #EB455F;
+    margin:0;
+}
+.h2bot{margin:0 auto 0 auto;
+color:#00000070;
+font-size: 1.25rem;
+}
+.footer-link{
+    font-size: 1.2rem;
+    font-weight: bold;
+    color:#000000A0;
+    text-decoration: none;
+    padding:0 1rem 0 1rem;
+    font-family: 'Roboto', sans-serif;
+
+}
+.pfoot{
+    color:#00000070;
+    font-family: 'Montserrat', sans-serif;
+    margin:0;
+}
